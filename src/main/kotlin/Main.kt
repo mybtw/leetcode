@@ -1,9 +1,9 @@
 package su.china
 
-import su.china.arrays.lengthOfLastWord
+import su.china.arrays.lengthOfLastWordSimple
 
 fun main() {
-    println(lengthOfLastWord("1"))
+    println(lengthOfLastWordSimple("Hello World"))
 }
 
 
